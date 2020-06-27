@@ -1,10 +1,11 @@
 # Updates!
 ## Current Version:
-1.1.4
+1.1.5
 ### Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
-|1.1.4    |:white_check_mark:  | Updated `-updatelogs` to refer to the public github's logs!|
+|1.1.5    | :white_check_mark: | Added the `-icon` command which gives the server's icon|
+|1.1.4    |:x:  | Updated `-updatelogs` to refer to the public github's logs!|
 |1.1.3    |:x:| While using `-daddysay` anyone could say @everyone, changed so that only admins can use @ from now on.|
 |1.1.2    |:x:| Adding awaits to the avatar command| 
 |1.1.1    |:x:|Minor bug fixes and updating package.md|
