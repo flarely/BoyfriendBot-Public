@@ -1,4 +1,7 @@
-#Updates!
+# Updates!
+## Current Version:
+1.1.3
+### Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
 |1.1.3    |:white_check_mark:| While using `-daddysay` anyone could say @everyone, changed so that only admins can use @ from now on.|
