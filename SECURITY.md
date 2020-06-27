@@ -10,7 +10,9 @@ currently being supported with security updates.
 
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
-|1.1.1    |:white_check_mark:|Minor bug fixes and updating package.md|
+|1.1.3    |:white_check_mark:| While using `-daddysay` anyone could say @everyone, changed so that only admins can use @ from now on.|
+|1.1.2    |:x:| Adding awaits to the avatar command| 
+|1.1.1    |:x:|Minor bug fixes and updating package.md|
 |1.1.0    |:x:|Adding moderations commands, and NSFW commands to v12.
 |1.0.9    |:x:|New profile picture for Boyfriend Bot! We fixed up a few things and added the -gametruth and -gamedare commands. See you on the otherside in Beta!|
 |1.0.8    |:x:|Cleaned up Boyfriend Bot commands! Beta will be launching soon! |
