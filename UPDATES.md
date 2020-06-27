@@ -1,10 +1,11 @@
 # Updates!
 ## Current Version:
-1.1.3
+1.1.4
 ### Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
-|1.1.3    |:white_check_mark:| While using `-daddysay` anyone could say @everyone, changed so that only admins can use @ from now on.|
+|1.1.4    |:white_check_mark:  | Updated changelogs to refer to the public github!|
+|1.1.3    |:x:| While using `-daddysay` anyone could say @everyone, changed so that only admins can use @ from now on.|
 |1.1.2    |:x:| Adding awaits to the avatar command| 
 |1.1.1    |:x:|Minor bug fixes and updating package.md|
 |1.1.0    |:x:|Adding moderations commands, and NSFW commands to v12.
