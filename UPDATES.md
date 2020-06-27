@@ -4,7 +4,7 @@
 ### Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
-|1.1.4    |:white_check_mark:  | Updated changelogs to refer to the public github!|
+|1.1.4    |:white_check_mark:  | Updated `-updatelogs` to refer to the public github's logs!*this github*|
 |1.1.3    |:x:| While using `-daddysay` anyone could say @everyone, changed so that only admins can use @ from now on.|
 |1.1.2    |:x:| Adding awaits to the avatar command| 
 |1.1.1    |:x:|Minor bug fixes and updating package.md|
