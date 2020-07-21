@@ -1,10 +1,11 @@
 # Updates!
 ## Current Version:
-### 1.1.8
+### 1.1.9
 ## Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
-|1.1.8    |:white_check_mark:  | Adding `-eval`, and other bug fixes.             |
+|1.1.9    |:white_check_mark:  | Fixed the @everyone responding fix, and setting up for music commands coming in `1.2.0`!|
+|1.1.8    |:x:                 | Adding `-eval`, and other bug fixes.             |
 |1.1.7    |:x:                 | Added custom prefix support! Server owner's/admins please run `-add` to make sure your bot is in the database!|
 |1.1.6    |:x:                 | Added `-nsfwpickupline` which returns a not so sfw message sometimes.|
 |1.1.5    |:x:                 | Added the `-icon` command which gives the server's icon|
