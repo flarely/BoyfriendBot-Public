@@ -1,7 +1,7 @@
 # Updates!
-## Current Version:
-### 1.1.9
-## Update Logs:
+### Current Version:
+#### 1.1.9
+### Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
 |1.1.10   |:white_check_mark:  | Cleaned up everything in the bot. It now runs on a new server! Also introduced join/leave messages for the bot and other commands. Check out -help! |
