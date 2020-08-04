@@ -1,10 +1,11 @@
 # Updates!
 ### Current Version:
-#### 1.2.0
+#### 1.2.1
 ### Update Logs:
 | Version | Supported          | Change Logs                                      |
 | ------- | ------------------ | --------------                                   |
-|1.2.0   |:white_check_mark:  | Cleaned up everything in the bot. It now runs on a new server! Also introduced join/leave messages for the bot and other commands. Check out -help! |
+|1.2.1    |:white_check_mark:  | Added users to `-info`, and fixed guild counter in status. Also, added channels and user count in status.|
+|1.2.0    |:x:  | Cleaned up everything in the bot. It now runs on a new server! Also introduced join/leave messages for the bot and other commands. Check out -help! |
 |1.1.9    |:x:                 | Fixed the @everyone responding fix, and setting up for music commands coming in `1.2.0`!|
 |1.1.8    |:x:                 | Adding `-eval`, and other bug fixes.             |
 |1.1.7    |:x:                 | Added custom prefix support! Server owner's/admins please run `-add` to make sure your bot is in the database!|
